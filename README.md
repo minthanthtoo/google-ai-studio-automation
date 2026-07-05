@@ -18,17 +18,17 @@ Prompt Bubble badge in the AI Studio editor:
 
 <img src="https://minthanthtoo.github.io/google-ai-studio-automation/docs/screenshots/editor-badge.png" alt="Prompt Bubble badge" width="900">
 
-Run tab with full prompt timeline:
+Build tab with prompt-pack import and detection:
 
-<img src="https://minthanthtoo.github.io/google-ai-studio-automation/docs/screenshots/run-timeline.png" alt="Run timeline" width="900">
+<img src="https://minthanthtoo.github.io/google-ai-studio-automation/docs/screenshots/build-tab.png" alt="Build tab" width="900">
 
 Prompts tab for reviewing and editing detected prompts:
 
 <img src="https://minthanthtoo.github.io/google-ai-studio-automation/docs/screenshots/prompts-tab.png" alt="Prompts tab" width="900">
 
-Build tab with prompt-pack import and detection:
+Run tab with full prompt timeline:
 
-<img src="https://minthanthtoo.github.io/google-ai-studio-automation/docs/screenshots/build-tab.png" alt="Build tab" width="900">
+<img src="https://minthanthtoo.github.io/google-ai-studio-automation/docs/screenshots/run-timeline.png" alt="Run timeline" width="900">
 
 ## Use
 
