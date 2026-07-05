@@ -2,6 +2,14 @@
 
 Console-paste automation tools for Google AI Studio app building workflows.
 
+## Why
+
+Tired of feeding AI Studio one small prompt at a time when you already have the whole app in mind?
+
+Big ideas need more than a tiny boilerplate tweak. A full business tool, writing system, finance workflow, or video game often needs long-context planning, staged execution, and controlled goal drift so the result does not collapse into a small demo.
+
+This tool is built for that workflow: use ChatGPT to roleplay the right expert, plan the full app or software solution, turn that plan into a staged prompt chain, then run it through AI Studio with a visible timeline, retry support, and prompt controls. Instead of manually curating every step, you can guide a larger build in one steady pass.
+
 ## Features
 
 - Prompt Bubble UI for managing prompt chains.
