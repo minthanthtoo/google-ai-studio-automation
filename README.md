@@ -16,7 +16,7 @@ Console-paste automation tools for Google AI Studio app building workflows.
 
 Prompt Bubble badge in the AI Studio editor:
 
-![Prompt Bubble badge](https://raw.githubusercontent.com/minthanthtoo/google-ai-studio-automation/main/docs/screenshots/editor-badge.png)
+<img src="docs/screenshots/editor-badge.jpg" alt="Prompt Bubble badge" width="900">
 
 Run tab with full prompt timeline:
 
