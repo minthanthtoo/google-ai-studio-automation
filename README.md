@@ -40,6 +40,8 @@ pbcopy < google_ai_studio_automation.js
 
 Open Google AI Studio, open DevTools Console, paste, and press Enter.
 
+![Console injection](docs/screenshots/console-injection.png)
+
 If Chrome blocks console paste, type:
 
 ```text
