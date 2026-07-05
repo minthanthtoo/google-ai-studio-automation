@@ -38,7 +38,12 @@ Copy the full script:
 pbcopy < google_ai_studio_automation.js
 ```
 
-Open Google AI Studio, open DevTools Console, paste, and press Enter.
+Open Google AI Studio and inject the script:
+
+1. Right-click anywhere on the AI Studio page.
+2. Click `Inspect`.
+3. Open the `Console` tab in DevTools.
+4. Paste the copied script and press Enter.
 
 <img src="https://minthanthtoo.github.io/google-ai-studio-automation/docs/screenshots/console-injection.png" alt="Console injection" width="900">
 
