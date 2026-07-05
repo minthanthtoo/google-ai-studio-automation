@@ -12,6 +12,24 @@ Console-paste automation tools for Google AI Studio app building workflows.
 - Google Drive allow-access countdown helper.
 - Download overlay with `Alt+D`.
 
+## Screenshots
+
+Prompt Bubble badge in the AI Studio editor:
+
+![Prompt Bubble badge](docs/screenshots/editor-badge.png)
+
+Run tab with full prompt timeline:
+
+![Run timeline](docs/screenshots/run-timeline.png)
+
+Prompts tab for reviewing and editing detected prompts:
+
+![Prompts tab](docs/screenshots/prompts-tab.png)
+
+Build tab with prompt-pack import and detection:
+
+![Build tab](docs/screenshots/build-tab.png)
+
 ## Use
 
 Copy the full script:
