@@ -20,11 +20,11 @@ Prompt Bubble badge in the AI Studio editor:
 
 Run tab with full prompt timeline:
 
-![Run timeline](docs/screenshots/run-timeline.png)
+<img src="docs/screenshots/run-timeline.png" alt="Run timeline" width="900">
 
 Prompts tab for reviewing and editing detected prompts:
 
-![Prompts tab](docs/screenshots/prompts-tab.png)
+![Prompts tab](https://raw.githubusercontent.com/minthanthtoo/google-ai-studio-automation/main/docs/screenshots/prompts-tab.png)
 
 Build tab with prompt-pack import and detection:
 
